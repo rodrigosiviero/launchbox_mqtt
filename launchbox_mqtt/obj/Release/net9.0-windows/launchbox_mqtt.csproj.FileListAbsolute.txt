@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Release\net9.0-windows\launchbox_mqtt.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Release\net9.0-windows\launchbox_mqtt.Properties.Resources.resources
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Release\net9.0-windows\launchbox_mqtt.SettingsForm.resources
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Release\net9.0-windows\launchbox_mqtt.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Release\net9.0-windows\launchbox_mqtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Release\net9.0-windows\launchbox_mqtt.csproj.CoreCompileInputs.cache

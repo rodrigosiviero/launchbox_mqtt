@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = launchbox_mqtt
+build_property.ProjectDir = C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

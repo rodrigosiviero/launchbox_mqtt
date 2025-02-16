@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\bin\Debug\launchbox_mqtt.deps.json
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\bin\Debug\launchbox_mqtt.dll
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\bin\Debug\MQTTnet.dll
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\bin\Debug\Unbroken.LaunchBox.Plugins.dll
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\bin\Debug\Unbroken.LaunchBox.Plugins.xml
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\launchbox_mqtt.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\launchbox_mqtt.Properties.Resources.resources
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\launchbox_mqtt.SettingsForm.resources
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\launchbox_mqtt.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\launchbox_mqtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\launchbox_mqtt.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\launchbo.AC477552.Up2Date
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\launchbox_mqtt.dll
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\refint\launchbox_mqtt.dll
+C:\Users\rodri\source\repos\launchbox_mqtt\launchbox_mqtt\obj\Debug\ref\launchbox_mqtt.dll

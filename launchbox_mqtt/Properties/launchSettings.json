@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "launchbox_mqtt": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\rodri\\LaunchBox\\Launchbox.exe",
+      "workingDirectory": "C:\\Users\\rodri\\LaunchBox",
+      "nativeDebugging": true
+    }
+  }
+}
